@@ -1,4 +1,4 @@
-# Limit-Text-By-Word
+# woocommerec-checkBox-filtering-query
 
 ## Synopsis
 Use this action to change shop page query
